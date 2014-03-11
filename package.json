@@ -1,0 +1,28 @@
+{
+  "name": "neocortex-strategy",
+  "version": "0.1.0",
+  "description": "A provider for dependency analytics and combo strategy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cortexjs/neocortex-strategy-service.git"
+  },
+  "keywords": [
+    "checker"
+  ],
+  "engines": { 
+    "node": ">=0.8.0"
+  },
+  "author": "kael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortexjs/neocortex-strategy-service/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "chai": "~1.8.0"
+  }
+}
